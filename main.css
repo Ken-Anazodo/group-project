@@ -14,7 +14,7 @@
 }
 
 .nav-container .portfolio-name{
-	width: 20%;
+/*	width: 20%;*/
 }
 
 .nav-container .navigation{
@@ -106,3 +106,26 @@
 }
 
 
+/*Footer*/
+.nav1 ul li.first h2{
+	font-size: 19px;
+}
+
+.nav1 ul li{
+	font-size: 14px;
+	list-style: none;
+}
+
+
+.footer-container{
+	margin-top: 150px;
+}
+
+.hr-footer{
+	width: 100%;
+	border-top: 2px solid gray;
+}
+
+.rights{
+	font-size: 12px;
+}
