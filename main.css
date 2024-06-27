@@ -107,8 +107,13 @@
 
 
 /*Footer*/
-.nav1 ul li.first h2{
+.nav1 ul li.first h2 a{
 	font-size: 19px;
+}
+
+.nav1 ul li a{
+	text-decoration: none;
+	color: black;
 }
 
 .nav1 ul li{
