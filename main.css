@@ -1,0 +1,108 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.portfolio-name{
+	font-size: 28px;
+	font-weight: 500;
+}
+
+.nav-container{
+	width: 100%;
+}
+
+.nav-container .portfolio-name{
+	width: 20%;
+}
+
+.nav-container .navigation{
+	width: 40%;
+}
+
+.nav-link{
+	color: black;
+}
+
+
+.hero-content1{
+	border-left: 4px solid red;
+	width: 70%;
+}
+
+.hero-btn{
+	border-radius: 10px;
+}
+
+.hero-img-cont{
+	width: 50%;
+	height: 40vh;
+}
+
+.hero-img{
+	width: 100%;
+	height: inherit;
+	object-fit: cover;
+}
+
+
+
+
+/*About*/
+.about-container{
+	margin-top: 150px;
+}
+
+.nosAndtitle{
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.nosAndtitle .nos{
+	font-size: 38px;
+	font-weight: 500;
+}
+
+
+/*Project*/
+.project-container{
+	margin-top: 150px;
+}
+
+
+/*Client Review*/
+.cr{
+	border-left: 4px solid red;
+}
+
+.client-container{
+	margin-top: 150px;
+}
+
+.cb h3{
+	font-size: 20px;
+}
+
+.cb p{
+	font-size: 16px;
+}
+
+
+
+/*Contact*/
+.contact-container{
+	margin-top: 150px;
+	color: ghostwhite;
+}
+
+.form-cont{
+	border-radius: 20px;
+}
+
+.form-btn{
+	font-weight: 600;
+}
+
+
